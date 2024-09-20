@@ -1,4 +1,4 @@
-# MS-DisasterManagement
+# MS-DisasterManagement-Cloud (Part-1)
 My MS Final Project for Cloud based Disaster Management (SaaS) through Tweets Sentiment Analysis
 
 This repository includes Azure resource group information with all the necessary resources, such as 'Infrastructure as a Code (IaaC)' in the ExportedTemplate-TweetsIngestion.zip.
