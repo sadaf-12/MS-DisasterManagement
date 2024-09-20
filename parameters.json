@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "namespaces_TweetsIng_name": {
+            "value": null
+        },
+        "workspaces_TweetCluster_name": {
+            "value": null
+        },
+        "vaults_tweetsml5064157928_name": {
+            "value": null
+        },
+        "components_tweetsml0256382691_name": {
+            "value": null
+        },
+        "storageAccounts_tweetsml4747393223_name": {
+            "value": null
+        },
+        "databaseAccounts_tweeter_database_name": {
+            "value": null
+        },
+        "streamingjobs_tweets_powerBi_name": {
+            "value": null
+        },
+        "workspaces_tweetsml6538621116_name": {
+            "value": null
+        },
+        "streamingjobs_tweets_stream_cosmos_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___tweetsml0256382691_name": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        }
+    }
+}
