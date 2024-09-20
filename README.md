@@ -9,7 +9,7 @@ Scala (code) notebook is saved as Sentiment Analysis.dbc (Databrick Archive).
 
 Below are the steps to deploy this project back to Azure:
 
-1. Upload the ExportedTemplate-TweetsIngestion.zip to Azure portal
+1. Upload the ExportedTemplate-TweetsIngestion.zip to Azure portal (_or the parameter.json and template.json files_)
 2. Test run the EventsHub _(TweetsIng)_, StreamAnalytics Job _(tweets-stream-cosmos)_ (_note: this project uses Cosmos DB_)
 3. Run the StreamAnalytics Job **_tweets-stream-cosmos_**
 4. Open the Azure Databricks workspace and setup _**compute**_ instance with _**Apache Spark 3.5.0, Scala 2.12**_
