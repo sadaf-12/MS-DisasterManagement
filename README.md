@@ -19,16 +19,22 @@ Below are the steps to deploy this project back to Azure:
 
 The following libraries are required for this project:
 
-1. Azure Cosmos DB Connector for Spark
+1. Azure Cosmos DB Connector for Spark: 
+
     Maven: com.azure.cosmos.spark:azure-cosmos-spark_3_5_2:4.33.1
 2. Azure Messaging Event Hubs
+
     Maven: com.azure:azure-messaging-eventhubs:5.18.6
 3. John Snow Labs NLP (GPU version)
+
     Maven: com.johnsnowlabs.nlp:spark-nlp-gpu_2.12:3.0.1
 4. Azure Event Hubs Connector for Spark
+
     Maven: com.microsoft.azure:azure-eventhubs-spark_2.12:2.3.18
 5. Play JSON Library
+
     Maven: com.typesafe.play:play-json_2.12:2.10.6
 6. JSON4S Core
+
     JAR: json4s-core_2.12-4.0.3.jar
 
