@@ -1,5 +1,5 @@
 # MS-DisasterManagement-Cloud (Part-1)
-My MS Final Project for Cloud based Disaster Management (SaaS) through Tweets Sentiment Analysis
+My MS Final Project for Cloud-based Disaster Management (SaaS) through Tweets Sentiment Analysis
 
 This repository includes Azure resource group information with all the necessary resources, such as 'Infrastructure as a Code (IaaC)' in the ExportedTemplate-TweetsIngestion.zip.
 This zip folder contains parameters and templates that are used as JSON files.
@@ -14,8 +14,7 @@ Below are the steps to deploy this project back to Azure:
 3. Run the StreamAnalytics Job **_tweets-stream-cosmos_**
 4. Open the Azure Databricks workspace and setup _**compute**_ instance with _**Apache Spark 3.5.0, Scala 2.12**_
 5. The libraries required are detailed later
-6.   
-7. Upload the Sentiment Analysis.dbc file which will open the Scala Notebook for tweets ingestion and sentiment analysis
+6. Upload the Sentiment Analysis.dbc file which will open the Scala Notebook for tweets ingestion and sentiment analysis  
 
 The following libraries are required for this project:
 
